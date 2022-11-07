@@ -1,16 +1,16 @@
 export default {
   clientId: 385,
   logo: 'https://ssl.cdn.maodouketang.com/Fpkgonzaw5GTUFa0Bfvd_ZlO5yq1',
-  title: '开源操作系统社区',
-  subTitle: '促进操作系统的教学、研究与产业的发展',
+  title: '开源RISC-V社区',
+  subTitle: '促进RISC-V的教学、研究与产业的发展',
   footer: {
     resources: [
       {
-        text: 'Rust基础教程',
-        link: 'http://docs.os2edu.cn/'
+        text: 'RISC-V基础教程',
+        link: 'http://riscvedu.com/'
       },
       {
-        text: '清华rCore操作系统实践教程',
+        text: '清华RISC-V基础教程实践教程',
         link: 'http://rcore-os.cn/rCore-Tutorial-Book-v3/'
       },
       {
